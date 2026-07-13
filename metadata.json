@@ -1,0 +1,6 @@
+{
+  "name": "Phi Long Studio",
+  "description": "Tạp chí trực tuyến cao cấp về mô hình, khí tài quân sự và nội dung viễn tưởng của Phi Long Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
